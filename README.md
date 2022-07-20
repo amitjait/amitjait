@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Amit kumar
-- 👀 I’m interested in web development. 
-- 🌱 I’m currently learning how to build website through HTML, CSS, JS and other languages.
 - 📫 How to reach me -  amit.rimit591@gmail.com 
 
 <!---
