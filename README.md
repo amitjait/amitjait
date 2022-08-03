@@ -14,7 +14,7 @@
 #### About Me ?
 
 - 🏫 I'm a pursuing full stack development course at AccioJob ,
-- ⚡️ Currently working as a HVAC and Thermal design Engineer at MSD Technologies, Gurugram.
+- ⚡️ Currently working as HVAC and Thermal design Engineer at MSD Technologies, Gurugram.
 - ♥️ I love to do code.
 <!-- - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS, Rust & Blockchain(Solana) development.
 - ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs) -->
