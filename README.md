@@ -19,7 +19,7 @@
 - ♥️ I love to do code.
 -⚡️ I am working on a Open source project - "MentHealth". - https://ment-helth-events.netlify.app/
 
-<!-- - ♥️ I love to contribute to open-source products. --> -->
+<!-- - ♥️ I love to contribute to open-source products. -->
 
 
 ### 🔭 **Technology Stack**
