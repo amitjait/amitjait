@@ -18,7 +18,8 @@
 - ⚡️ Currently working as HVAC and Thermal design Engineer at MSD Technologies, Gurugram.
 - ♥️ I love to do code.
 -⚡️ I am working on a Open source project - "MentHealth".
-- ♥️ I love to contribute to open-source products. -->
+
+<!-- - ♥️ I love to contribute to open-source products. --> -->
 
 
 ### 🔭 **Technology Stack**
