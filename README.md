@@ -17,9 +17,7 @@
 - ⚡️ Looking for an opportunity to kick start my career as software developer / web developer.
 - ⚡️ Currently working as HVAC and Thermal design Engineer at MSD Technologies, Gurugram.
 - ♥️ I love to do code.
-<!-- - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS, Rust & Blockchain(Solana) development.
-- ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs) -->
-<!-- - 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
+-⚡️ I am working on a Open source project - "MentHealth".
 - ♥️ I love to contribute to open-source products. -->
 
 
