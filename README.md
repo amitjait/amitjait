@@ -13,7 +13,6 @@
 
 #### About Me ?
 
-- 🏫 I'm a pursuing full stack development course at AccioJob ,
 - ⚡️ Looking for an opportunity to kick start my career as software developer / web developer.
 - ⚡️ Currently working as HVAC and Thermal design Engineer at MSD Technologies, Gurugram.
 - ♥️ I love to do code.
