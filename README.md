@@ -17,7 +17,6 @@
 - ⚡️ Currently working as HVAC and Thermal design Engineer at MSD Technologies, Gurugram.
 - ♥️ I love to do code.
 - ⚡️ I am working on a Open source project - "MentHealth". - https://ment-helth-events.netlify.app/
-- 
 
 <!-- - ♥️ I love to contribute to open-source products. -->
 
