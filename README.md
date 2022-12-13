@@ -19,6 +19,10 @@
 
 <!-- - ♥️ I love to contribute to open-source products. -->
 
+### **Projects**
+- Book My Show BackEnd 
+- Sudoku Solver
+
 
 ### 🔭 **Technology Stack**
 
