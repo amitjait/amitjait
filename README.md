@@ -13,15 +13,14 @@
 
 #### About Me ?
 
-- ⚡️ Looking for an opportunity to kick start my career as software developer / web developer.
+- ⚡️ SDE Intern at Aegis Covenant (Skills: JS, React JS, Node JS, SQL).
 - ♥️ I love to do code.
-- ⚡️ I am working on a Open source project - "MentHealth". - https://ment-helth-events.netlify.app/
 
 - ♥️ I love to contribute to open-source products.
 
 ### **Projects**
 - Ticket Booking System 
-- Sudoku Solver
+- Typing Test Web
 
 
 ### 🔭 **Technology Stack**
