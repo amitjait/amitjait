@@ -14,9 +14,7 @@
 #### About Me ?
 
 - ⚡️ SDE Intern at Aegis Covenant (Skills: JS, React JS, Node JS, SQL).
-- ♥️ I love to do code.
-
-- ♥️ I love to contribute to open-source products.
+- ♥️ I love to contribute to open-source projects.
 
 ### **Projects**
 - Ticket Booking System 
