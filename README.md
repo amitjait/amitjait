@@ -13,7 +13,7 @@
 
 #### About Me ?
 
-- ⚡️ SDE Intern at Aegis Covenant (Skills: JS, React JS, Node JS, SQL).
+- ⚡️ SDE at Aegis Covenant (Skills: JS, React JS, Node JS, SQL).
 - ♥️ I love to contribute to open-source projects.
 
 ### **Projects**
